@@ -7,10 +7,6 @@ Mit AppInventor / Kodular extension format numbers based on default system langu
 
 ## Screenshots
 
-- In Portuguese Brazil
-
-![ptBR](assets/Screenshot_ptBR.png)
-
-- In English USA
-
-![enUS](assets/Screenshot_enUS.png)
+In Portuguese Brazil | In English USA
+------------ | -------------
+![ptBR](assets/Screenshot_ptBR.png) | ![enUS](assets/Screenshot_enUS.png)
